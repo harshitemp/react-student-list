@@ -4,6 +4,11 @@
 Render a list of students dynamically in React using the `map()` function and display them with a unique `key` prop.
 
 ---
+## Screenshots
+
+Here’s a preview of the app:
+
+![App Screenshot](public/ss.png)
 
 ## Steps to Run
 
